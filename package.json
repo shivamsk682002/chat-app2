@@ -19,6 +19,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.4",
     "nodemon": "^3.1.7",
+    "react": "^19.0.0",
+    "router-dom": "^3.0.1",
     "socket.io": "^4.8.1"
   }
 }
